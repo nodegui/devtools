@@ -1,6 +1,6 @@
 {
   "name": "@nodegui/devtools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react nodegui devtools integrator",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,9 @@
   "author": "atulanand94@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "bufferutil": "^4.0.1",
     "react-devtools-core": "^4.3.0",
+    "utf-8-validate": "^5.0.2",
     "ws": "^7.2.1"
   }
 }
