@@ -1,0 +1,15 @@
+{
+  "name": "@nodegui/devtools",
+  "version": "1.0.0",
+  "description": "A react nodegui devtools integrator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atulanand94@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "react-devtools-core": "^4.3.0",
+    "ws": "^7.2.1"
+  }
+}
