@@ -8,7 +8,23 @@ React NodeGui's devtools support module.
 npm install --save-dev @nodegui/devtools
 ```
 
+# Pre-requisite
+
+Install React devtools standalone version.
+
+```
+npm install -g react-devtools
+```
+
 # Usage
+
+1. Launch devtools.
+
+```sh
+    react-devtools
+```
+
+2. In your app code:
 
 ```js
 import { Renderer } from "@nodegui/react-nodegui";
